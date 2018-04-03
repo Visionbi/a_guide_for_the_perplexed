@@ -1,7 +1,8 @@
-**Design Review (DR)**
+Design Review (DR)
+==========
 
-**Purpose**
-
+Purpose
+-------
 A design review (DR) is a milestone within the development process,
 whereby a *design* is evaluated against the project’s *requirements*, in
 order to verify the suggested model / product will meet the
@@ -13,15 +14,15 @@ The design review also allows the designer / design team to receive
 important feedback from other project stakeholders, which until now
 weren’t necessarily heard.
 
-**Timing**
-
+Timing
+-------
 The design review is part of the project’s *design* phase (including
 also High-Level Design and Detailed Design), and should take place after
 the *requirement collection* and *data exploration* phases, and before
 the *development* phase.
 
-**Types**
-
+Types
+-------
 We usually hold two types of design reviews:
 
 An *external* design review, including all the project stakeholders –
@@ -37,8 +38,8 @@ can perform the external one first, and then have the internal one
 discuss and finalize all the issues that were raised on the external
 one.
 
-**Content**
-
+Content
+-------
 In general, the design review should present the suggested model /
 product – it’s components, interfaces and logic – and describe how it
 will support the business requirements.
@@ -62,8 +63,8 @@ The design review session should contain:
 
 -   Open issues / questions for the participants.
 
-**Outcomes**
-
+Outcomes
+-------
 The design review should result in a general Go/No-Go decision regarding
 the suggested design (continue to the development phase or not), and a
 list of detailed issues that need further investigation and adjustment,
@@ -73,8 +74,8 @@ If many changes and adjustments are required, it is recommended to
 schedule another design review, to present the updated model / product
 design and make sure it is acceptable.
 
-**Tips**
-
+Tips
+-------
 -   The design review should not be longer than 1.5 hours (if more time
     is needed, break it into a few sessions).
 
