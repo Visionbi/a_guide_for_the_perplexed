@@ -34,6 +34,7 @@ Writing many unit tests on every piece of code, will take time and money . A dev
 
 - Isolation - avoid dependencies such as environment settings, or databases. A single test should not depend on running other tests before it, nor should it be affected by the order of execution of other tests
 - A test should either pass all the time or fail until fixed. Having a unit test that passes some of the time is equivalent to not having a test at all.
+- If it failed , do not forget to write why (expected vs. actual). This will definitely serve the developer in the best way possible.
 - Naming convention - the test method name is very important. When a well-named test fails, it is easier to understand what was tested and why it failed.
 - It should be easy . If it is too complicated , probably you need to refactor the code you are writing .
 - For work balance and knowledge sharing, consider involving an additional team member to take part in this effort.
