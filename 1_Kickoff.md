@@ -51,7 +51,7 @@
 		- etc.
 - Risks - Define the crucial risks of the project, few issues that may impact its quality or timeline.
 	- Score each risk by severity and probability and define a mitigation for it.
-## Internal Kickoff (Team Members)
+## Setup & Internal Kickoff (Team Members)
 - Set servers\environments for development.
 - Set working stations, software and relevant connections for all team members.
 - Define technical standards such as ETL process template and naming conventions. Guide the team according to them.
