@@ -1,9 +1,11 @@
-# System handover
+System handover
+==================
+
 Last but not least.
 This is a sensitive and critical phase that needs to be carefully managed to make sure the customer gets all required tools and information that will enable him use and maintain the system after going live.
 (This guide will not cover end-user training)
 
-## Documentation
+Documentation
 The purpose of documentation is to make sure the customer system owner gets a clear and full picture of the different models and the objects the system contains including the method they were implemented.
 There are different approaches to document your software. One can manage it through detailed comments and explanations within the application code itself. Others might prefer to manage a standalone document for each business model.
 A list of topics to be included:
