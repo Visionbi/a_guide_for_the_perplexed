@@ -27,8 +27,9 @@ Holding a F2F training session/s will ensure high quality, focused and professio
 The training shall include detailed review of the system implementation, including:
 •	Business model review (and the entities each model contain)
 •	Solution architecture
-•	Implementation method
+•	Partitions
 •	Loading process
+•	Logging
 •	Dashboard and reports review
 The training session can lead to a walkthrough session that will include a code review. Make sure you are prepared to answer 
 ‘why’ questions and not just ‘how’.
@@ -50,5 +51,10 @@ Do you need to run the process again or do you need to change something manually
 The runbook will include all the steps 1..5 till the problem is solved and will include links to technical information 
 like user, passwords, connection strings etc.
 
-## Maintenance process
-
+## Infrastructure review
+Going the last mile . Highly recommanded.
+Infrastructure components to be mentioned during handover process , preferred with a DBA/System administrator.
+•	Disk allocation 
+•	Index fregmentation
+• Review buckup & recovery procedures (Full/differential/transaction Log(Full Recover Mode))
+• Data retention policy 
