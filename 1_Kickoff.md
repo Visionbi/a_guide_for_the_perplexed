@@ -13,8 +13,10 @@
 	- Define project plan and high level Gantt, add the following effort and timeline
 		- Backend entities
 		- Frontend reports and dashboards
+		- Logging and stats
 		- UAT
 		- Stabilization
+		- Maintenance process
 		- Training and handover
 	- Define the main milestones - (i.e. main backend entity, main dashboard, reports delivery etc.)
 - Roles and responsibilities
