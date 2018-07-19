@@ -12,15 +12,15 @@ and the objects the system contains including the method they were implemented.
 There are different approaches to document your software. One can manage it through detailed comments and explanations within 
 the application code itself. Others might prefer to manage a standalone document for each business model.
 A list of topics to be included:
-•	Purpose
-•	Background & business questions
-•	General Assumptions
-•	DWH Design (main information of each entity)
-•	Data Flow Chart
-•	Star Schema Chart 
-•	Dependencies (internal and external)
-•	Measures and attributes
-•	Main and special capabilities
+-	Purpose
+-	Background & business questions
+-	General Assumptions
+-	DWH Design (main information of each entity)
+-	Data Flow Chart
+-	Star Schema Chart 
+-	Dependencies (internal and external)
+-	Measures and attributes
+-	Main and special capabilities
 
 ## Training
 Holding a F2F training session/s will ensure high quality, focused and professional process. 
