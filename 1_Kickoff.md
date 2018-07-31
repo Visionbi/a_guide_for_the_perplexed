@@ -1,15 +1,15 @@
 # Kickoff
 ## External Kickoff (Customer Stakeholders)
-- Project goals - Define project goals, what are the main 3-4 benefits for business users. For example, “Allow focus on data analysis instead of data collection and processing”.
-- Project scope
-	- Define the solution
+- Project goals - define project goals, what are the main 3-4 benefits for business users. For example, “Allow for focus on data analysis instead of data collection and processing”.
+- Project Scope
+	- Define the Solution
 		- High level data modeling diagram
 		- Data flow and system architecture
 		- Development tools (i.e. front tool\ETL\DB tools)
 		- Operational data sources (i.e. salesforce, ERP)
 		- Frontend reports and dashboards (i.e management dashboard)
 		- Additional features (i.e. security model, ODS loader)
-- Timeline and milestones
+- Timeline and Milestones
 	- Define project plan and high level Gantt, add the following effort and timeline
 		- Backend entities
 		- Frontend reports and dashboards
@@ -19,8 +19,8 @@
 		- Maintenance process
 		- Training and handover
 	- Define the main milestones - (i.e. main backend entity, main dashboard, reports delivery etc.)
-- Roles and responsibilities
-	- Business\Product Owner - Define the owner who represent the business users, the one who will provide the users requirements and approve the project deliverables.
+- Roles and Responsibilities
+	- Business\Product Owner - Define the owner who represents the business users, the one who will provide the user requirements and approve the project deliverables.
 		- His\Her main responsibilities are:
 			- Business reports and dashboards design
 			- Detailed design approval
@@ -29,7 +29,7 @@
 	- Project Manager 
 		- His\Her main responsibilities are:
 			- Team professional management (i.e. code reviews, design reviews, methodologies)
-			- Business requirements with all departments management
+			- Management of business requirements of all departments
 			- Manages timelines, priorities and risks for the BI
 	- BI Developer - Define team members, responsibilities (i.e. responsible for front\back\business area\model)
 		- His\Her main responsibilities are:
@@ -41,7 +41,7 @@
 				- Semantic layer
 				- Reports & Dashboards development
 				- Unit\integration testing
-- Project routines - Define the project governance routines, provide details about their frequency, owners and deliverables. For example: project status will be held on a weekly basis with the project team leaders (customer, business\product, QA leader and project manager). Weekly status deliverable will be a weekly summary report.
+- Project Routines - Define the project governance routines, provide details about their frequency, owners and deliverables. For example: project status will be held on a weekly basis with the project team leaders (customer, business\product, QA leader and project manager). Weekly status deliverable will be a weekly summary report.
 	- Other governance routines:
 		- Sprint planning
 		- Sprint retrospective
@@ -51,7 +51,7 @@
 		- Design Reviews
 		- UAT process 
 		- etc.
-- Risks - Define the crucial risks of the project, few issues that may impact its quality or timeline.
+- Risks - Define the crucial risks of the project, the few issues that may impact the project's quality or timeline.
 	- Score each risk by severity and probability and define a mitigation for it.
 ## Setup & Internal Kickoff (Team Members)
 - Set servers\environments for development.
