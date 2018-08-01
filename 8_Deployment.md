@@ -5,15 +5,15 @@ DEPLOYMENT
 available for use.*" [Wikipedia]
 
 In the software development world, we frequently encounter the terms "deploy"
-and "release". Occasionally, these terms are used interchangeably but,
-in the context of this guide, we'll stick to the common usage where
+and "release". Occasionally, these terms are used interchangeably, but
+in the context of this guide we'll stick to the common usage where
 **Release** is the act of making a software version available for users and
 **Deployment** is the [more technical] process of installing and configuring a
 version of software onto a target environment.
 
 Depending on the system complexity and the number of underlying interacting
 components, the deployment process may potentially be intricate and error-prone.
-That being the case, it's important to execute it methodically while adhering
+If that's the case, it's important to execute it methodically while adhering
 to industry best practices.
 
 Following are a few guidelines and points to think about before releasing
@@ -58,8 +58,7 @@ Environments
 
 DBs
 ---
-* Keeping your DBs in sync is always a pain in the butt but, difficult as it is,
-  integrate DDLs and DB changes into the deployment processes.
+* Keeping your DBs in sync is always a pain in the butt, however, difficult as it is, integrating DDLs and DB changes into the deployment processes.
 * Support a DB init (on a fresh install) as well as DB changes (i.e. alters).
 * Make sure all DB changes are reversible. When possible, contain all changes
   in a single transaction that can be rolled-back in case of failure.
@@ -98,7 +97,7 @@ Team and PR
 -----------
 * Make sure all team members are able to monitor the deployment status
   (e.g. failed components, rollback status etc.)
-* [Auto-] Announce a maintenance window. If down time is required, make sure
+* [Auto-] Announce a maintenance window. If downtime is required, make sure
   all users are onboard.
 * When releasing a major version, announce it within the organization (PR).
   Let users know what they may expect from the new version (in terms of
