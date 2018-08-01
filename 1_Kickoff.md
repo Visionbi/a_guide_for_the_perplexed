@@ -56,9 +56,9 @@
 ## Setup & Internal Kickoff (Team Members)
 - Set servers\environments for development.
 - Set working stations, software and relevant connections for all team members.
-- Define technical standards such as ETL process template and naming conventions. Guide the team according to them.
-- Define working processes such as deployment methods and guide the team according to them.
+- Define technical standards such as ETL process template and naming conventions. Use these standards as a guide.
+- Define working processes such as deployment methods and and use them as a guide.
 - Set team trainings on relevant technologies and tools.
-- Define documentation templates according to project’s need.
+- Define documentation templates according to the project's needs.
 - Set management tools (bug tracking, tasks managements, source control etc.)
 
