@@ -2,9 +2,9 @@ Logging and Monitoring
 ======================
 
 A typical system or application performs many operations (e.g. creates objects,
-executes processes and threads, connects to a database etc.) and in the absence
+executes processes and threads, connects to a database etc.) . In the absence
 of a logging mechanism, developers are basically flying blind while trying to
-get things working correctly.
+get things to work correctly.
 
 Without proper logging, development is done based on guesswork and intuition -
 with no real indication of what's happening.
@@ -13,7 +13,7 @@ There are several types of logging: application log, security log, event log,
 transaction log and more.
 
 When done right, logs will help you to better understand the activity of the
-system and to debug and diagnose problems.
+system, and to diagnose problems and debug them.
 
 
 General
@@ -66,11 +66,10 @@ Mechanism and Performance
 * Prefer logging to local files (not affected by network problems).
 * Logging into a database is a valid option, but may slow down your processes.
   When logging into a database, schedule a maintenance plan to avoid bloated tables.
-* When logging to files, devise a file rotation policy.
+* When logging files, devise a file rotation policy.
 * Loggers should have as little impact as possible on your running processes -
-  use fault-tolerant protocols and don't allow loggers to block, slow down or
-  fail your processes (in case of log failure).
-* Use unique identifiers for each log entry. this may come handy during debugging.
+  use fault-tolerant protocols and don't allow loggers to block, slow down or cause your processes to fail (in case of log failure).
+* Use unique identifiers for each log entry. This may come handy during debugging.
 * Aggregate and analyze logs using standard industry tools (e.g. Logstash, Graylog).
 * When running in production, automate alerting (on WARNINGs, ERRORs and
   CRITICAL events).
