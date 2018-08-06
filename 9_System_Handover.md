@@ -47,6 +47,7 @@ You can write a general checklist to cover daily operational tasks for example:
 -	Monitor system performances 
 -	Make sure reports and dashboards are extracting data 
 -	Etc.
+
 You will write common failures and uncommon failures including potential fixing. How to recover from malfunctions . 
 Do you need to run the process again or do you need to change something manually before running for the next time.
 The runbook will include all the steps 1..5 till the problem is solved and will include links to technical information 
