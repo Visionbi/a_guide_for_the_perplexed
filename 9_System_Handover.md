@@ -31,6 +31,7 @@ The training shall include detailed review of the system implementation, includi
 -	Loading process
 -	Logging
 -	Dashboard and reports review
+
 The training session can lead to a walkthrough session that will include a code review. Make sure you are prepared to answer 
 ‘why’ questions and not just ‘how’.
 It is preferred that you will upload your code to the customer source control system in order to have an alignment with 
