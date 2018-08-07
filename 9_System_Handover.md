@@ -27,7 +27,8 @@ Holding a F2F training session/s will ensure high quality, focused and professio
 The training shall include detailed review of the system implementation, including:
 -	Business model review (and the entities each model contain)
 -	Solution architecture
--	Partitions
+-	DB Schema, Partitions, Procedures 
+- ETL 
 -	Loading process
 -	Logging
 -	Dashboard and reports review
@@ -40,8 +41,6 @@ internal solutions.
 ## Runbook
 Writing a set of routines and operations that explain common recurring tasks will help you to find the optimal way 
 to get the work done.
-If you are not sure if you will remember to explain the customer how to do things 6 months from now or if there are many 
-routines to follow , continue reading .
 You can write a general checklist to cover daily operational tasks for example:
 -	Check no alert emails or failures in the logs
 -	Monitor system performances 
