@@ -26,7 +26,7 @@ General
   audit logs, event logs etc.) - some of them may require a slightly different
   approach. For example: audit logs are used to monitor activities and attacks
   while application logs may be used for debugging.
-* Cheese the right log verbosity (i.e. log level) for each environment.
+* Choose the right log verbosity (i.e. log level) for each environment.
   Your chatty DEV logger may not be suitable on PROD servers (see **Log Levels**
   section below).
 * Make sure to always filter out sensitive data (e.g. passwords, private info etc.)
