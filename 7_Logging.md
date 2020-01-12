@@ -38,7 +38,7 @@ Format
   add some context (i.e. which server, process, module, function triggered
   the message).
 * Logging format should be readable and clear to humans (typically developers).
-  It should also be structured and parseable by machines.
+  It should also be structured and parsable by machines.
 * Messages should answer the WHEN, WHERE, WHO and WHAT questions:
 
   **WHEN** - Event timestamp. Note that server timestamp may be different from
